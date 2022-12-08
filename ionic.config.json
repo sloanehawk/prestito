@@ -1,0 +1,8 @@
+{
+  "name": "Prestito",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "8c15aa9e"
+}
